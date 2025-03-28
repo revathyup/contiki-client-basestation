@@ -1,1 +1,1 @@
-# cooja-contiki network
+# cooja-contiki rpl network
