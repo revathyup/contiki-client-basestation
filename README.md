@@ -1,1 +1,1 @@
-# contiki-client-basestation
+# cooja-contiki network
